@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "130767935805",
+    "project_id": "skype-clone-4b940",
+    "storage_bucket": "skype-clone-4b940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130767935805:android:27d966b823b5d0eaef8d54",
+        "android_client_info": {
+          "package_name": "com.example.goolge_Map_live_loaction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130767935805-tacof3kivurfpcv9gb8sdai26gortbve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBh3WgwUX0IfhbakaD5tKa6uh-PAiUfno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130767935805-tacof3kivurfpcv9gb8sdai26gortbve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130767935805:android:5a2e97f275a38c68ef8d54",
+        "android_client_info": {
+          "package_name": "com.example.skype_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130767935805-r0uocvqpceciu8965q3evd10nr843br1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skype_clone",
+            "certificate_hash": "0cb45258fe785fa914c1033c3f0cbd1a532d3f4c"
+          }
+        },
+        {
+          "client_id": "130767935805-tacof3kivurfpcv9gb8sdai26gortbve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBh3WgwUX0IfhbakaD5tKa6uh-PAiUfno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130767935805-tacof3kivurfpcv9gb8sdai26gortbve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

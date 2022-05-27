@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237497531756",
+    "project_id": "facebok-login-2559a",
+    "storage_bucket": "facebok-login-2559a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237497531756:android:c5b7f4e71b310f9d54c749",
+        "android_client_info": {
+          "package_name": "com.example.googleSignIn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237497531756-u6ajuck4t24614cb2pa0b9ga2j5n5gtk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googleSignIn",
+            "certificate_hash": "0cb45258fe785fa914c1033c3f0cbd1a532d3f4c"
+          }
+        },
+        {
+          "client_id": "237497531756-kh9jbkahrv70stvj25obfeb1d13io7ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfb4yNtIYoj5s9yj_dZC3KPeaEI2qho8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237497531756-kh9jbkahrv70stvj25obfeb1d13io7ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
